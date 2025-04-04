@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <meta name="description" content="Personal Portfolio Page of Nanditha">
+    <title>Nanditha's Profile</title>
+</head>
+<body>
+    <header>
+        <h1>Nanditha</h1>
+        <section>
+            <div>
+                <h2>About Me:
+                    
+                    <p>I am Nanditha, 3rd year B.E student studying at GM Institute of Technology. I am pursuing a degree in <mark>Artificial Intelligence and Machine Learning</mark> course at present. I am good in my studies and also in many other extracurricular activities. I have strong foundation in <mark>AI, machine learning, databases</mark> I have completed completed courses like AI for Beginners, Prompt Engineering, and Power BI. I am passionate about leveraging AI to solve real-world problems, especially in agriculture and healthcare. I am always eager to learn new technologies and improve my skills in software development.</p>
+                </h2>
+                <h2>Skills:
+                <ol>
+                    <li>Python Development</li>
+                    <li>Prompt Engineering</li>
+                    <li>Power BI</li>
+                    <li>Machine Learning and AI</li>
+                </ol>
+                </h2>
+                <h2>Interests:
+                <ol>
+                    <li>AI-Business Ideas</li>
+                    <li>Web Development</li>
+                    <li>Cloud Computing and Devops</li>
+                </ol>
+                </h2>
+                <h2>Project Section:
+                    <h3> Project 1: Movie Recommendation System
+                        <p>A <mark> Movie Recommendation System</mark> is an application that suggests movies based on user-input. This project uses content-based filtering, where movies are recommended based on their genres and descriptions using Streamlit and cosine similarity.</p>
+                    <h3>Project 2: My Portfolio Website
+                        <p>A portfolio website is a great way to showcase our skills, projects, and experience. Since I am a Python developer with afocus on AI, machine learning, and databases etc. Basic Sections to Include:
+
+                            1. Home – A brief introduction about yourself.
+                            2. About Me – Your background, skills, and experience.
+                            3. Projects – Showcase your AI, ML, and Python projects.
+                            4. Resume – A downloadable CV.
+                            5. Contact – Email, LinkedIn, GitHub links.
+                            </p>
+                    </h3>
+                    </h3>
+                    </h2>
+                    <h2>Contact Information:
+                        <p>Email address: dsnanditha@gmail.com</p>
+                        <p>Linkedin: <a href="https://www.linkedin.com">Visit Linkedin</a></p>
+                    </h2>
+
+                
+    
+            </div>
+        </section>
+    </header>
+</body>
